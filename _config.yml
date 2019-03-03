@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Ben Rearick"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "benprofile.jpeg"
+  bio              : "Librarian"
   location         : "Pullman, WA"
   employer         : "Washington State University Libraries"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : barearick@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/benrearick/"
   orcid            : "https://orcid.org/0000-0001-8274-3454"
   pinterest        :
   soundcloud       :
