@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Ben Rearick"
 description              : &description "Web Services and Usability Librarian"
 url                      : https://ferenjamin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "ferenjamin/ferenjamin.github.io"
 teaser                   : "/images/benprofile.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
