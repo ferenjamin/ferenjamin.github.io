@@ -2,7 +2,6 @@
 layout: post
 title:  "2025, Week 2"
 date:   2025-01-12 19:52:32 -0600
-categories: weeknote
 ---
 Week 2 and healthier than ever.
 
