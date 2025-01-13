@@ -2,7 +2,6 @@
 layout: post
 title:  "2025, Week 1"
 date:   2025-01-05 18:05:32 -0600
-categories: weeknote
 ---
 
 Not much to share this week: sick with cold since Christmas day. Starting weeknotes.
