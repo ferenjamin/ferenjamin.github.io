@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "2025, Week 2"
+date:   2025-01-12 19:52:32 -0600
+---
+Week 2 and healthier than ever.
+
+Updates: making progress on last week's assigned goals
+
+- Jekyll: 80% set up. Last week's note migrated into a post from my homepage.
+- Annual letter: delegated photo-gathering to J after I selected monthly events. She is choosing them and peppering the letter with memories and sentences this evening.
+- Taking notes: kind of progress. Space opened up in my brain today to start composing. Need to do actual recording or drafting each day though.
+
+Visits to libraries: 3 to public library, 1 to academic library, all with kiddo.
+
+I was pleasantly surprised with the weather this week. I went out with no coat on for some errands yesterday in what turned out to be the high 20s.
+
+## Why start a blog in 2025
+
+I've been thinking about this for over a year as I've learned from several people who have put their work online and worked out in the open. I want to try it out.
+
+I've particularly enjoyed people who write about their life, or just curate what they've read or seen on the internet. In general, I'm wanting to slow down, reflect more, and document life and thoughts.
+
+### Why weeknotes
+
+Committing to a weekly ritual of pushing publish will help me form a routine so I'm ultimately not (as) embarrassed #NeverBeEmbarrassed by what is going up online.
+
+### Ideas for future posts
+
+Not necessarily in weeknotes, but who knows!
+
+- Five newsletter recommendations that aren't in the ["Your favorite newsletter's favorite newsletters" document](https://docs.google.com/document/d/1bJfUx_UkdawUlyBnBxKlHGGVBYbkCNkURo1fHNX6QXI/edit?tab=t.0#heading=h.z5l7fu4b04tf), via [Naive Weekly](https://substack.com/home/post/p-154628617) (which is in the document)
+- Blogs or sites that I draw inspiration from
+- Why I became a "city council"-head
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

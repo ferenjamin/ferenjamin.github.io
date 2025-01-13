@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "2025, Week 1"
+date:   2025-01-05 18:05:32 -0600
+---
+
+Not much to share this week: sick with cold since Christmas day. Starting weeknotes.
+
+Visits to the public library: 3, 2 with kiddo.
+
+Links and thoughts: "Every boundary is an interface" from McKinley Valentine's superlative newsletter, [The Whippet](https://thewhippet.org/184-the-2024-25-demilitarised-zone/)
+## Goals for this week
+
+- Set up Jekyll
+- Compose annual photo letter for friends/family
+- Take notes for next week
