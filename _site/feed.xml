@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2025-01-12T21:17:32-06:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Ben is writing</title><subtitle>Just a special place on the internet to put thoughts</subtitle><entry><title type="html">2025, Week 2</title><link href="http://localhost:4000/blog/2025/01/12/week-02.html" rel="alternate" type="text/html" title="2025, Week 2" /><published>2025-01-12T19:52:32-06:00</published><updated>2025-01-12T19:52:32-06:00</updated><id>http://localhost:4000/blog/2025/01/12/week-02</id><content type="html" xml:base="http://localhost:4000/blog/2025/01/12/week-02.html"><![CDATA[<p>Week 2 and healthier than ever.</p>
+
+<p>Updates: making progress on last week’s assigned goals</p>
+
+<ul>
+  <li>Jekyll: 80% set up. Last week’s note migrated into a post from my homepage.</li>
+  <li>Annual letter: delegated photo-gathering to J after I selected monthly events. She is choosing them and peppering the letter with memories and sentences this evening.</li>
+  <li>Taking notes: kind of progress. Space opened up in my brain today to start composing. Need to do actual recording or drafting each day though.</li>
+</ul>
+
+<p>Visits to libraries: 3 to public library, 1 to academic library, all with kiddo.</p>
+
+<p>I was pleasantly surprised with the weather this week. I went out with no coat on for some errands yesterday in what turned out to be the high 20s.</p>
+
+<h2 id="why-start-a-blog-in-2025">Why start a blog in 2025</h2>
+
+<p>I’ve been thinking about this for over a year as I’ve learned from several people who have put their work online and worked out in the open. I want to try it out.</p>
+
+<p>I’ve particularly enjoyed people who write about their life, or just curate what they’ve read or seen on the internet. In general, I’m wanting to slow down, reflect more, and document life and thoughts.</p>
+
+<h3 id="why-weeknotes">Why weeknotes</h3>
+
+<p>Committing to a weekly ritual of pushing publish will help me form a routine so I’m ultimately not (as) embarrassed #NeverBeEmbarrassed by what is going up online.</p>
+
+<h3 id="ideas-for-future-posts">Ideas for future posts</h3>
+
+<p>Not necessarily in weeknotes, but who knows!</p>
+
+<ul>
+  <li>Five newsletter recommendations that aren’t in the <a href="https://docs.google.com/document/d/1bJfUx_UkdawUlyBnBxKlHGGVBYbkCNkURo1fHNX6QXI/edit?tab=t.0#heading=h.z5l7fu4b04tf">“Your favorite newsletter’s favorite newsletters” document</a>, via <a href="https://substack.com/home/post/p-154628617">Naive Weekly</a> (which is in the document)</li>
+  <li>Blogs or sites that I draw inspiration from</li>
+  <li>Why I became a “city council”-head</li>
+</ul>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Week 2 and healthier than ever.]]></summary></entry><entry><title type="html">2025, Week 1</title><link href="http://localhost:4000/blog/2025/01/05/week-01.html" rel="alternate" type="text/html" title="2025, Week 1" /><published>2025-01-05T18:05:32-06:00</published><updated>2025-01-05T18:05:32-06:00</updated><id>http://localhost:4000/blog/2025/01/05/week-01</id><content type="html" xml:base="http://localhost:4000/blog/2025/01/05/week-01.html"><![CDATA[<p>Not much to share this week: sick with cold since Christmas day. Starting weeknotes.</p>
+
+<p>Visits to the public library: 3, 2 with kiddo.</p>
+
+<p>Links and thoughts: “Every boundary is an interface” from McKinley Valentine’s superlative newsletter, <a href="https://thewhippet.org/184-the-2024-25-demilitarised-zone/">The Whippet</a></p>
+<h2 id="goals-for-this-week">Goals for this week</h2>
+
+<ul>
+  <li>Set up Jekyll</li>
+  <li>Compose annual photo letter for friends/family</li>
+  <li>Take notes for next week</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Not much to share this week: sick with cold since Christmas day. Starting weeknotes.]]></summary></entry></feed>
